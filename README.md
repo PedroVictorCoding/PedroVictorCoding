@@ -1,3 +1,7 @@
+theme: slate
+remote_theme: slate
+
+
 ### Hi there 👋
 
 <!--
